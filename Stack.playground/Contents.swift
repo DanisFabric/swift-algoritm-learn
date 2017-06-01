@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 public struct Stack<Element> {
     fileprivate var array: [Element]
     

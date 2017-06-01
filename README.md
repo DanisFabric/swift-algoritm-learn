@@ -4,7 +4,7 @@
 
 ### Variations on arrays
 
-- [ ] Array2D
+- [x] Array2D
 - [ ] Bit Set
 - [ ] Fixed Size Array
 - [ ] Ordered Array
@@ -14,7 +14,7 @@
 
 - [x] Stack
 - [x] Queue
-- [ ] Deque
+- [x] Deque
 - [ ] Priority Queue
 - [ ] Ring Buffer
 

@@ -1,3 +1,7 @@
+/*
+ * 队列 FIFO
+ */
+
 
 public struct Queue<Element> {
     fileprivate var array: [Element]
