@@ -5,7 +5,7 @@
 ### Variations on arrays
 
 - [x] Array2D
-- [ ] Bit Set
+- [x] Bit Set
 - [ ] Fixed Size Array
 - [ ] Ordered Array
 - [ ] Rootish Array Stack
