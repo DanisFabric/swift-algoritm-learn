@@ -4,23 +4,23 @@
 
 ### Variations on arrays
 
-- [x] Array2D
-- [x] Bit Set
-- [ ] Fixed Size Array
-- [ ] Ordered Array
+- [x] Array2D (Day 1)
+- [x] Bit Set (Day 1)
+- [x] Fixed Size Array (Day 2)
+- [x] Ordered Array (Day 2)
 - [ ] Rootish Array Stack
 
 ### Queues
 
-- [x] Stack
-- [x] Queue
-- [x] Deque
+- [x] Stack (Day 1)
+- [x] Queue (Day 1)
+- [x] Deque (Day 1)
 - [ ] Priority Queue
 - [ ] Ring Buffer
 
 ### Lists
 
-- [ ] Linked List
+- [x] Linked List (Day 2)
 - [ ] Skip-List
 
 ### Trees
